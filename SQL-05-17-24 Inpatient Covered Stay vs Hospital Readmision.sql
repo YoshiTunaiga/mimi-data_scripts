@@ -11,6 +11,10 @@
   2. How does the percentage of inpatient readmissions within 30 days 
     compare to the total count of FFS Medicare beneficiaries using Hospital Inpatient services with at least one covered stay?
   3. What is the percentage of Medicare Fee-for-Service beneficiaries who are eligible for Medicaid for at least one month in the year?
+
+  The purpose of this query is to analyze the difference between the number of inpatient readmissions 
+  within 30 days and the total count of beneficiaries using hospital inpatient services, specifically for Florida counties.
+  The results will help in understanding the readmission rates and their impact on the overall inpatient service usage.
 */
 
 SELECT
